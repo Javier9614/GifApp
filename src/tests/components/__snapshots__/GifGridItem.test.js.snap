@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Puebas en <GifGridItem/> Debe mostrar el componente <GifGridItem/> 1`] = `
+<div
+  className="card animate__animated animate__rotateInUpRight"
+>
+  <h3
+    className="animate__animated animate__rotateInUpRight"
+  >
+    Un titulo
+  </h3>
+  <div
+    className="card__img"
+  >
+    <img
+      alt="Un titulo"
+      src="https://localhost/gif.gif"
+    />
+  </div>
+</div>
+`;

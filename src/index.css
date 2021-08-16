@@ -1,0 +1,11 @@
+*{
+  font-family: 'Courier New', Courier, monospace;
+}
+body{
+  padding:40px;
+}
+input{
+  color: rgb(138, 136, 136);
+  font-size: 12px;
+  width:100%;
+}
